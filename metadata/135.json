@@ -1,0 +1,27 @@
+{
+  "name": "WINERY OPENER NFT #135",
+  "description": "This is a NFT that can be used to open a winery.",
+  "image": "https://dev.winery.land/source/images/135.png",
+  "dna": "5b298284a03730130e842aff6d90bc37ea01646b",
+  "edition": 135,
+  "date": 1649837752145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy1"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "Planet4"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Ring4"
+    },
+    {
+      "trait_type": "Satellite",
+      "value": "Satellite4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
